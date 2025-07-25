@@ -1,14 +1,14 @@
 # 🌿 One Step Greener
 
-**One Step Greener (OSG)** is a youth-led non‑profit launched in 2018 by Vihaan & Nav Agarwal. Based in Delhi NCR, we’re on a mission to build a zero‑waste future through waste management, recycling, and native tree plantations, while empowering informal waste workers. :contentReference[oaicite:1]{index=1}
+**One Step Greener (OSG)** is a youth-led non‑profit launched in 2018 by Vihaan & Nav Agarwal. Based in Delhi NCR, we’re on a mission to build a zero‑waste future through waste management, recycling, and native tree plantations, while empowering informal waste workers.
 
 ---
 
 ## 🚀 Our Mission & Impact
 
-- **Waste Recycled**: Over **12,72,845 kg** through door-to-door dry‑waste pickups across 13+ Indian cities. :contentReference[oaicite:2]{index=2}  
-- **Trees Planted**: **50,000+** and counting, creating new urban forests and restoring native greenery. :contentReference[oaicite:3]{index=3}  
-- **Community Education**: Reached **5,00,000+** people through talks, school visits, and training programs. :contentReference[oaicite:4]{index=4}
+- **Waste Recycled**: Over **12,72,845 kg** through door-to-door dry‑waste pickups across 13+ Indian cities.
+- **Trees Planted**: **50,000+** and counting, creating new urban forests and restoring native greenery.
+- **Community Education**: Reached **5,00,000+** people through talks, school visits, and training programs.
 
 ---
 
@@ -16,27 +16,27 @@
 
 | Initiative             | Description |
 |------------------------|-------------|
-| **Waste Management & Recycling** | Free pickup of segregation‑ready dry waste, recycling partnerships, and public education on circular waste systems. :contentReference[oaicite:5]{index=5} |
-| **Forest Plantation** | Urban afforestation with native species, engaging communities in planting and long-term care. :contentReference[oaicite:6]{index=6} |
-| **Advocacy & Awareness** | Policy outreach, school curriculum initiatives, and environmental training. :contentReference[oaicite:7]{index=7} |
+| **Waste Management & Recycling** | Free pickup of segregation‑ready dry waste, recycling partnerships, and public education on circular waste systems. |
+| **Forest Plantation** | Urban afforestation with native species, engaging communities in planting and long-term care.  |
+| **Advocacy & Awareness** | Policy outreach, school curriculum initiatives, and environmental training. 
 
 ---
 
 ## 🏅 Recognition & Growth
 
-- Featured by **KidsRights Foundation** for global advocacy leadership in sustainable futures for children. :contentReference[oaicite:8]{index=8}  
-- Recognized as a pioneering **environmental services collective** with a growing team in Gurugram and New Delhi. :contentReference[oaicite:9]{index=9}
+- Featured by **KidsRights Foundation** for global advocacy leadership in sustainable futures for children.
+- Recognized as a pioneering **environmental services collective** with a growing team in Gurugram and New Delhi.
 
 ---
 
 ## 📱 Connect with Us
 
-- **Website**: [onestepgreener.org](https://www.onestepgreener.org) :contentReference[oaicite:10]{index=10}  
+- **Website**: [onestepgreener.org](https://www.onestepgreener.org) 
 - **Email**: info@onestepgreener.org  
 - **Phone**: +91‑8744901010  
 - **Follow Us**:
-  - Instagram: [@onestep_greener](https://www.instagram.com/onestep_greener/) :contentReference[oaicite:11]{index=11}  
-  - Facebook / LinkedIn / YouTube / Twitter – see website footer for links :contentReference[oaicite:12]{index=12}
+  - Instagram: [@onestep_greener](https://www.instagram.com/onestep_greener/) 
+  - Facebook / LinkedIn / YouTube / Twitter – see website footer for links 
 
 ---
 
@@ -62,4 +62,3 @@
 ---
 
 If you'd like assistance embedding GitHub actions, automating impact updates, or linking organization data, I’d be glad to help!
-::contentReference[oaicite:13]{index=13}
