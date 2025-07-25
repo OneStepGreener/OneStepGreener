@@ -36,8 +36,7 @@
 - **Phone**: +91‑8744901010  
 - **Follow Us**:
   - Instagram: [@onestep_greener](https://www.instagram.com/onestep_greener/) 
-  - Facebook / LinkedIn / YouTube / Twitter – see website footer for links 
-
+  - [Facebook](https://www.facebook.com/1stepgreener) / [LinkedIn](https://www.linkedin.com/in/vihaanagarwal/) / [YouTube](https://www.youtube.com/channel/UCjiDqrZK0a7Ig2_X1l-m2jA/videos) / [Twitter](https://twitter.com/StepGreener) 
 ---
 
 ## 📂 Projects & Code
@@ -61,4 +60,3 @@
 
 ---
 
-If you'd like assistance embedding GitHub actions, automating impact updates, or linking organization data, I’d be glad to help!
